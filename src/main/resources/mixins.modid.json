@@ -1,0 +1,11 @@
+{
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.cleanroommc.modid.mixin",
+  "refmap": "mixins.sectionsign.refmap.json",
+  "mixins": [],
+  "client": [
+    "MixinChatAllowedCharacters"
+  ],
+  "server": []
+}
