@@ -9,7 +9,7 @@ public abstract class MixinChatAllowedCharacters {
 
     /**
      * @author Quarri6343
-     * @reason Katatsumuri.Panさんが欲しがってたから...
+     * @reason なんとなく
      */
     @Overwrite
     public static boolean isAllowedCharacter(char character)
